@@ -24,7 +24,7 @@
     "home_assistant_prefix": "homeassistant",
     "storage_poll_interval": 3600
   },
-  "host_network": false,
+  "host_network": true,
   "services": ["mqtt:need"],
   "schema": {
     "amcrest_host": "str",
